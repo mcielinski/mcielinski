@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Marcel Cielinski</h1>
 
-- 🔭 I’m currently working on an open-source agent-based mobility simulator for Wroclaw city. Great team on board! Apart from that, I am working on my master's thesis (at [WUST](https://pwr.edu.pl/en/) | field Data Science) under the title: "Data science approach to modeling COVID-19 impact on urban mobility".
+- 🔭 I’m currently working on an open-source agent-based mobility simulator for Wroclaw city. Great team on board!
+- 📝 Apart from that, I am working on my master's thesis (at [WUST](https://pwr.edu.pl/en/) | field Data Science) under the title: "Data science approach to modeling COVID-19 impact on urban mobility".
 
 <!--
 ### Hi there 👋
